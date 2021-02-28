@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💬 Ask me about anything you want to discuss :grin:
-- 📫 How to reach me: Send an email :grin:
+- 📫 How to reach me: [Click Me]('https://instagram.com/fuzanmuh__')
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
