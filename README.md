@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Click Me](https://instagram.com/fauzanmuh__)
 
 
-![fauzanmuh GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzanmuh&theme=flag-india_icons=true)
+![fauzanmuh GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzanmuh&show_icons=true&theme=cobalt)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
