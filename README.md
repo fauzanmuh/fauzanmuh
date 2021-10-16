@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want to discuss :grin:
 - 📫 How to reach me: [Click Me](https://instagram.com/fauzanmuh__)
 
-
-![fauzanmuh GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzanmuh&show_icons=true&theme=cobalt)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fauzanmuh&show_icons=true&include_all_commits=true&theme=cobalt" alt="fauzanmuh's github stats" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
