@@ -1,10 +1,11 @@
-### Hi there 👋
-
 <!--
 **fauzanmuh/fauzanmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+The spread of computers and the Internet will put jobs in two categories. People who tell computers what to do, and people who are told by computers what to do
+
 Here are some ideas to get you started:
 
 - 💬 Ask me about anything you want to discuss :grin:
