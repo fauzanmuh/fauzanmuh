@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fauzanmuh&show_icons=true&include_all_commits=true&theme=cobalt"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanmuh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="360px" />
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fauzanmuh&show_icons=true&include_all_commits=true&theme=cobalt"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanmuh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="360px" />
