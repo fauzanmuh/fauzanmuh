@@ -47,4 +47,4 @@ Here are some ideas to get you started:
  
 <p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fauzanmuh&show_icons=true&include_all_commits=true&theme=cobalt"/>
 </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanmuh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="30px" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanmuh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="360px" /></p>
