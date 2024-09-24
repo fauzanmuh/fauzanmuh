@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want to discuss :grin:
 - 📫 How to reach me: [Click Me](https://instagram.com/fauzanmuh__)
 
+<hr>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanmuh&theme=algolia" alt="fauzanmuh"  /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fauzanmuh&show_icons=true&include_all_commits=true&theme=cobalt" alt="fauzanmuh Github Stats" />
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fauzanmuh&show_icons=true&include_all_commits=true&theme=cobalt" alt="fauzanmuh Github Stats" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&layout=compact)](https://github.com/fauzanmuh/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/></p>
