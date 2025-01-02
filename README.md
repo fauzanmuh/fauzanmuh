@@ -1,7 +1,6 @@
 <!--
 **fauzanmuh/fauzanmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
@@ -46,6 +45,6 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&show_icons=true&theme=transparent"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&hide_progress=false" width="360px" /></p>
