@@ -46,6 +46,6 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&show_icons=true&theme=dracula"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&show_icons=true&theme=tokyonight"/></p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanmuh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="360px" /></p>
