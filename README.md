@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 <hr>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanmuh&theme=tokyonight&hide_border=true" alt="fauzanmuh"  /></p>
 
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=fauzanmuh&abbreviated=true&color=brightgreen" /></p>
+
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=fauzanmuh&abbreviated=true&color=brightgreen" />&nbsp;<i><b>Profile Views</b></i></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
