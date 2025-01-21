@@ -35,10 +35,12 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <hr>
+
+<p align="start">
+ <img src="https://komarev.com/ghpvc/?username=fauzanmuh&abbreviated=true&color=brightgreen" /></p>
+ 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanmuh&theme=tokyonight&hide_border=true" alt="fauzanmuh"  /></p>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=fauzanmuh&abbreviated=true&color=brightgreen" /></p>
 
 <hr>
 <p align="center">
