@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&hide_progress=false" width="360px" /></p>
+
+<img src="https://raw.githubusercontent.com/fauzanmuh/fauzanmuh/output/snake.svg" alt="Snake animation" />
