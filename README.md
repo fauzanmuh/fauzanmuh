@@ -52,5 +52,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&hide_progress=false" width="360px" /></p>
 
 <img src="https://raw.githubusercontent.com/fauzanmuh/fauzanmuh/output/snake.svg" alt="Snake animation" />
-
-###
