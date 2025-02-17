@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 💬 Ask me about anything you want to discuss :grin:
-- 📫 How to reach me: [Click Me](https://instagram.com/fauzanmuh__)
+- 📫 How to reach me: [Click Me](https://linktr.ee/fauzanmuh)
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
