@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Databases Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
+### 📦 Package Manager
+![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+
 ### 🛠 &nbsp;Hosting Stack
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
