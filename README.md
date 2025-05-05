@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want to discuss :grin:
 - 📫 How to reach me: [Click Me](https://linktr.ee/fauzanmuh)
 
-### 🛠 &nbsp;Tech Stack
+### 🧑‍💻 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
