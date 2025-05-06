@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
-### ☁️ &nbsp;Framework Stack
+### 🖼️ &nbsp;Framework Stack
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
-### 🛠 &nbsp;Hosting Stack
+### ☁️ &nbsp;Hosting Stack
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
