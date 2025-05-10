@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
-### 🛠 &nbsp;Browser
+### 🌐 &nbsp;Browser
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)
 
 <hr>
