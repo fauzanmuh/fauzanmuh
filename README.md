@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanmuh" alt="fauzanmuh" /></a> </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
 <p align="center">
