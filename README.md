@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanmuh" alt="fauzanmuh" /></a> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzanmuh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmuh&theme=tokyonight" height="300" alt="activity-graph graph"  />
 </div>
 
