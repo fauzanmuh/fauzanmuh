@@ -69,7 +69,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmuh&theme=tokyonight" height="300" alt="activity-graph graph"  />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; justify-content: center; align-items: center;">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmuh&theme=tokyonight" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmuh&theme=tokyonight" />
 </div>
+</div>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&hide_progress=true" width="360px" /></p>
