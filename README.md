@@ -75,8 +75,4 @@ Here are some ideas to get you started:
 </div>
 </div>
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&hide_progress=true" width="360px" /></p>
-
 <img src="https://raw.githubusercontent.com/fauzanmuh/fauzanmuh/output/snake.svg" alt="Snake animation" />
