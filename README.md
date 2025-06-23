@@ -75,4 +75,6 @@ Here are some ideas to get you started:
 </div>
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/fauzanmuh/fauzanmuh/output/snake.svg" alt="Snake animation" />
+</div>
