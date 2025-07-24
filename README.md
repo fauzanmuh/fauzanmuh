@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ### 🤝 Collaboration Tool
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 
 ### 🔖 &nbsp;Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
