@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### ⛈️ &nbsp;Databases Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) (Currently Learning)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff) (Currently Learning)
 
 ### 📦 Package Manager
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)
