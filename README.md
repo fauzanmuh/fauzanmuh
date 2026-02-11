@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
+### 🔌 &nbsp;API Development
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 ### ☁️ &nbsp;Hosting Stack
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
