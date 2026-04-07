@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### 📦 Package Manager
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 
 ### 🔌 &nbsp;API Development
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
