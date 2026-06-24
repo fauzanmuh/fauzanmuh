@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ### 🔌 &nbsp;API Development
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)
 
 ### ☁️ &nbsp;Hosting Stack
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
